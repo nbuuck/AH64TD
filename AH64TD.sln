@@ -1,0 +1,24 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual C# Express 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AH64TD", "AH64TD\AH64TD\AH64TD.csproj", "{3670E31B-9092-4E82-89A2-24F72DA3E849}"
+EndProject
+Project("{96E2B04D-8817-42C6-938A-82C39BA4D311}") = "AH64TDContent", "AH64TD\AH64TDContent\AH64TDContent.contentproj", "{626448E0-74F6-4474-B31D-B0DA7B4C4753}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3670E31B-9092-4E82-89A2-24F72DA3E849}.Debug|x86.ActiveCfg = Debug|x86
+		{3670E31B-9092-4E82-89A2-24F72DA3E849}.Debug|x86.Build.0 = Debug|x86
+		{3670E31B-9092-4E82-89A2-24F72DA3E849}.Release|x86.ActiveCfg = Release|x86
+		{3670E31B-9092-4E82-89A2-24F72DA3E849}.Release|x86.Build.0 = Release|x86
+		{626448E0-74F6-4474-B31D-B0DA7B4C4753}.Debug|x86.ActiveCfg = Debug|x86
+		{626448E0-74F6-4474-B31D-B0DA7B4C4753}.Release|x86.ActiveCfg = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
